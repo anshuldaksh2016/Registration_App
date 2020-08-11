@@ -1,0 +1,25 @@
+.App{
+    text-align: center;
+    width: 50%;
+    
+	height: 240px;
+    position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+}
+
+
+/*  await fetch('/register', {
+            method: 'POST',
+            body: JSON.stringify(data),
+            headers: { 'Content-Type': 'application/json' }
+        }).then(response => response.json())
+          .then(data => this.setState({email:' '}))
+          .catch(error => console.log(error));
+            
+
+    } */
